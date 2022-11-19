@@ -3,4 +3,4 @@
 
 # whitelist
 !.gitignore
-!.devcontainer/
+!.devcontainer/*
