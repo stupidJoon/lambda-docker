@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.108"
+  },
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
